@@ -11,7 +11,7 @@ My name is Ignacio Binaghi, i'm a student at New York University double majoring
   - HTML
   - CSS
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioBinaghi&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioBinaghi&layout=compact&theme=nord)
 
 
 Feel free to reach out to me and check out my website! 
