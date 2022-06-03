@@ -1,4 +1,4 @@
-# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="10%">
+# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50vh">
 My name is Ignacio Binaghi, i'm a student at New York University double majoring in Computer Science and Economics.
 
 # About Me
