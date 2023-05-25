@@ -19,14 +19,7 @@
 
 
 # Contact Me
-Email: binaghiignacio@gmail.com
-
- <a href="https://www.linkedin.com/in/ignacio-binaghi-a08073229/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ignacio-binaghi-a08073229/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <nbsp>
-  <a href="https://www.linkedin.com/in/ignacio-binaghi-a08073229/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-
-Phone Number: 203-524-8944
-
-Instagram: https://www.instagram.com/ignacio_binaghi/
+  <a href="mailto:ignacio.binaghi@nyu.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
