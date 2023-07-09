@@ -3,7 +3,7 @@
 # About Me
 🎓 I am an NYU student double majoring in Computer Science and Economics
 <br>
-🚀 I am working on launching my own startup wsAlpha
+🚀 I am working at July Technologies as a Summer Intern!
 <br>
 📅 I recently made an itinerary planning app for people with special needs
 <br>
